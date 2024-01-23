@@ -1,32 +1,37 @@
-## About Me
-> Hello, I am Seweryn, an 18 years old who loves to code.
+# Hello :wave:, I am Seweryn 😃 
+> Computer engineering Student at IUT of Paris - Rives de Seine
 
-> I am currently pursuing a Bachelor's degree in Computer Science at the IUT of Paris. After I am done with it, I will continue my education in an enginnering school.
+> Apprentice at Sirius Space Services
 
-> This account serves for me to upload my current university projects as well as my personal (mostly educational) projects
-## Interests
-#### My main interests right now are :
+> This account regroups my university and personal projects
+
+# Interests ⚡
+### My main interests right now are :
 - **Software engineering**
 - **Back-end developement**
 - **Embedded Software**
 
-## Skills
+# Skills 👩‍💻
 
 <p align="center"><b>Languages</b></p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,js,py" />
+    <img src="https://skillicons.dev/icons?i=rust,cpp,c,java,js,py,html,css" />
   </a>
 </p>
 
 <p align="center"><b>Tools</b></p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,idea,vscode,visualstudio,bootstrap,dotnet" />
+    <img src="https://skillicons.dev/icons?i=git,github,idea,vscode,visualstudio,bootstrap,dotnet,cmake,docker" />
   </a>
 </p>
 
-## Contact
+# My GitHub stats 🏆
+![Sev's GitHub stats](https://github-readme-stats.vercel.app/api?username=sevnx&hide=issues&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sevnx&layout=compact&theme=radical)](https://github.com/sevnx/github-readme-stats)
+
+# Contact 💬
 Feel free to reach out to me for any inquiries or collaboration opportunities (I am most active on Discord)
 * [E-mail](mailto:sevveryn.czykinowski@gmail.com)
 * [Linkedin](https://www.linkedin.com/in/seweryn-czykinowski/)
