@@ -13,23 +13,23 @@
 
 # Skills 👩‍💻
 
-<p align="center"><b>Languages</b></p>
+<h3 align="center">Languages</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,cpp,c,java,js,py,html,css" />
+    <img src="https://skillicons.dev/icons?i=rust,cpp,c,java,py,js,ts,php,html,css,md" alt="Languages" />
   </a>
 </p>
 
-<p align="center"><b>Tools</b></p>
+<h3 align="center">Tools</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,idea,vscode,visualstudio,bootstrap,dotnet,cmake,docker" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,idea,discordjs,react,windows,linux,ubuntu,docker,postgres,mysql,nodejs,npm" alt="Tools" />
   </a>
 </p>
 
 # My GitHub stats 🏆
 ![Sev's GitHub stats](https://github-readme-stats.vercel.app/api?username=sevnx&hide=issues&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sevnx&layout=compact&theme=radical)](https://github.com/sevnx/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sevnx&layout=compact&theme=radical)](https://github-readme-stats.vercel.app/api/top-langs/?username=sevnx&layout=compact&theme=radical))
 
 # Contact 💬
 Feel free to reach out to me for any inquiries or collaboration opportunities (I am most active on Discord)
