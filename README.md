@@ -1,17 +1,11 @@
-# Hello :wave:, I am Seweryn 😃 
-> Computer engineering Student at IUT of Paris - Rives de Seine
+# Hello :wave:, I am Seweryn 😃
 
-> Apprentice at Sirius Space Services
+## 🌟 About me 
 
-> This account regroups my university and personal projects
+- 🎓 Studying Computer Engineering at IUT of Paris - Rives de Seine
+- 💼 Software engineering apprentice at Sirius Space Services
 
-# Interests ⚡
-### My main interests right now are :
-- **Software engineering**
-- **Back-end developement**
-- **Embedded Software**
-
-# Skills 👩‍💻
+## 🛠️ Skills
 
 <h3 align="center">Languages</h3>
 <p align="center">
@@ -27,11 +21,13 @@
   </a>
 </p>
 
-# My GitHub stats 🏆
+## 🏆 My GitHub stats
+
 ![Sev's GitHub stats](https://github-readme-stats.vercel.app/api?username=sevnx&hide=issues&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sevnx&layout=compact&theme=radical)](https://github-readme-stats.vercel.app/api/top-langs/?username=sevnx&layout=compact&theme=radical))
 
-# Contact 💬
+## 💬 Contact
+
 Feel free to reach out to me for any inquiries or collaboration opportunities (I am most active on Discord)
 * [E-mail](mailto:sevveryn.czykinowski@gmail.com)
 * [Linkedin](https://www.linkedin.com/in/seweryn-czykinowski/)
